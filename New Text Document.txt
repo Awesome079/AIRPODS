@@ -1,0 +1,112 @@
+ <div class="sec5">
+            <div class="sec5div">
+                <div>
+                    <img src="images/airpods_3rdgen_left.png" alt="">
+                </div>
+                <div>
+                    <img src="images/airpods_3rdgen_right.png" alt="">
+                </div>
+            </div>
+            <div class="sec5text">
+                <h1 style="font-size: 5.5rem; font-weight: bolder;">AirPod Pro</h1>
+                <h3 style="font-size: 1.5rem;">$247</h3>
+            </div>
+            <div class="sec5btn">
+                <button>Buy</button>
+                <a href="">Learn More</a>
+            </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <div class="sec5">
+            <div class="sec5text">
+                <div class="item5">
+                    <img src="images/airpods_3rdgen_left.png" alt="">
+                    <h1>
+                        AirPods Pro
+                    </h1>
+                    <h2>
+                        $247
+                    </h2>
+                </div>
+                <div class="item5b">
+                    <img src="images/airpods_3rdgen_right.png" alt="">
+                </div>
+
+
+                <div class="sec5sub">
+                    <button class="sec5btn">Buy</button>
+                    <a href="">Learn More></a>
+                </div>  
+        
+            </div>
+        </div>
+
+.sec5{ 
+    width: 100%;
+    border-radius: 30px;
+    height: 650px;
+}
+
+.sec5div{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec5text{
+    margin-top:0;
+    color: white;
+    align-items: center;
+    padding-right: 2px;
+}
+
+.sec5btn{
+    cursor: grab;
+    background-color: rgb(107, 100, 207);
+    color: rgb(241, 240, 240);
+    font-size: 20px;
+    border-radius: 3px;
+    text-align: center;
+    margin-left: 50px;
+    border-color: rgb(107, 100, 207);
+}
+
+        
+
+
+ <div class="sec5">
+            <div class="sec5div">
+                <div class="sec5text">
+                    <h1 style="font-size: 5.5rem; font-weight: bolder;">AirPod Pro</h1>
+                    <h3 style="font-size: 1.5rem;">$247</h3>
+                </div>
+                <div>
+                    <img src="images/airpods_3rdgen_left.png" alt="">
+                </div>
+                <div>
+                    <img src="images/airpods_3rdgen_right.png" alt="">
+                </div>
+                <div class="sec5btn">
+                    <button>Buy</button>
+                    <a href="">Learn More></a>
+                </div>
+            </div>           
+        </div>
+
+
+
